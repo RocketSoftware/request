@@ -1,3 +1,8 @@
+# @RocketSoftware/request
+
+This fork of [request](https://www.npmjs.com/package/request) in one way:
+- Update http-signature to 1.3.6
+
 # Deprecated!
 
 As of Feb 11th 2020, request is fully deprecated. No new changes are expected to land. In fact, none have landed for some time.

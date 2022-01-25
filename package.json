@@ -1,5 +1,5 @@
 {
-  "name": "request",
+  "name": "@rocketsoftware/request",
   "description": "Simplified HTTP request client.",
   "keywords": [
     "http",
@@ -11,7 +11,7 @@
   "author": "Mikeal Rogers <mikeal.rogers@gmail.com>",
   "repository": {
     "type": "git",
-    "url": "https://github.com/request/request.git"
+    "url": "git+https://github.com/request/request.git"
   },
   "bugs": {
     "url": "http://github.com/request/request/issues"
@@ -82,5 +82,11 @@
       "hawk",
       "har-validator"
     ]
+  },
+  "homepage": "https://github.com/request/request#readme",
+  "directories": {
+    "example": "examples",
+    "lib": "lib",
+    "test": "tests"
   }
 }
